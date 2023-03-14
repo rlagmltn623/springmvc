@@ -102,7 +102,6 @@ public class MappingController {
         return "ok";
     }
 
-
     /**
      * Accept 헤더 기반 Media Type
      * produces = "text/html"
